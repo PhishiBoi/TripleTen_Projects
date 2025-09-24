@@ -13,6 +13,7 @@ Portfolio of all projects completed during my TripleTen Data Science Bootcamp
 - Sprint 11: Linear Algebra
 - Sprint 12: Numerical Methods
 - Sprint 13: Time Series
+- Sprint 14: Machine Learning with Texts
 
   More to come as I complete the bootcamp!
 
