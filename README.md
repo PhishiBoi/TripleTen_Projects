@@ -14,8 +14,9 @@ Portfolio of all projects completed during my TripleTen Data Science Bootcamp
 - Sprint 12: Numerical Methods
 - Sprint 13: Time Series
 - Sprint 14: Machine Learning with Texts
-
-  More to come as I complete the bootcamp!
+- Sprint 15: Computer Vision
+- Sprint 16: Unsupervised Learning
+- Sprint 17: Final Project
 
 In each project you will find a Jupyter Notebook containing all of the code and iterations of the project, along with a README containing details of each project and the real world scenarios I encountered and solved.
 
